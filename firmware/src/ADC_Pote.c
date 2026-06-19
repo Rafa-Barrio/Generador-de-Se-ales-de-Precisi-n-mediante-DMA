@@ -11,9 +11,11 @@
 *  Created on: 13 jun. 2026
 *      Author: Usuario
 */
-#include "ADC_Pote.h"
-#include "variables_globales.h" // Para actualizar 'frecuencia_actual' y 'flag_actualizar_lcd'
+#include "../inc/ADC_Pote.h"
+
 #include "lpc17xx_dac.h"
+
+#include "../inc/variables_globales.h" // Para actualizar 'frecuencia_actual' y 'flag_actualizar_lcd'
 // Variable estática local para almacenar la última lectura válida y filtrar el ruido
 static uint32_t ultima_lectura_adc = 0;
 //Configuracion del periferico en canal 0

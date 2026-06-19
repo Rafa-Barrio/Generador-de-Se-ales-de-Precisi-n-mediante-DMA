@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/core_cm3.h:928:22:NVIC_EnableIRQ	16	static
+../firmware/src/UART_bi.c:25:6:UART_cfg	32	static
+../firmware/src/UART_bi.c:65:6:Consola_EnviaMensaje	24	static
+../firmware/src/UART_bi.c:72:6:UART_SendString	24	static
+../firmware/src/UART_bi.c:81:6:UART_SendNum	32	static
+../firmware/src/UART_bi.c:100:6:UART_ReportarEstado	24	static
+../firmware/src/UART_bi.c:115:6:UART0_IRQHandler	16	static
+../firmware/src/UART_bi.c:142:6:ProcesarComando_UART	8	static
+../firmware/src/UART_bi.c:190:6:generar_onda_polinomial	2112	static

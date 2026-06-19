@@ -1,33 +1,33 @@
 Archive member included to satisfy reference by file (symbol)
 
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                              ./src/ADC_Pote.o (ADC_Init)
+                              ./firmware/src/ADC_Pote.o (ADC_Init)
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
                               C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o) (CLKPWR_GetPCLK)
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_dac.o)
-                              ./src/dac_dma_signals.o (DAC_Init)
+                              ./firmware/src/dac_dma_signals.o (DAC_Init)
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                              ./src/dac_dma_signals.o (GPDMA_Init)
+                              ./firmware/src/dac_dma_signals.o (GPDMA_Init)
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                              ./src/control_botones.o (GPIO_SetDir)
+                              ./firmware/src/control_botones.o (GPIO_SetDir)
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
                               C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o) (check_failed)
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
-                              ./src/ADC_Pote.o (PINSEL_ConfigPin)
+                              ./firmware/src/ADC_Pote.o (PINSEL_ConfigPin)
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                              ./src/UART_bi.o (UART_Init)
+                              ./firmware/src/UART_bi.o (UART_Init)
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
                               C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o) (SystemCoreClock)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
-                              ./src/UART_bi.o (memset)
+                              ./firmware/src/UART_bi.o (memset)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(itoa.o)
-                              ./src/pantalla_LCD.o (itoa)
+                              ./firmware/src/pantalla_LCD.o (itoa)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-                              ./src/UART_bi.o (atof)
+                              ./firmware/src/UART_bi.o (atof)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(sin.o)
-                              ./src/dac_dma_signals.o (sin)
+                              ./firmware/src/dac_dma_signals.o (sin)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcmp.o)
-                              ./src/UART_bi.o (strcmp)
+                              ./firmware/src/UART_bi.o (strcmp)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
                               C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o) (strlen)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ungetc.o)
@@ -71,9 +71,9 @@ C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
                               C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
-                              ./src/dac_dma_signals.o (__aeabi_dmul)
+                              ./firmware/src/dac_dma_signals.o (__aeabi_dmul)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                              ./src/UART_bi.o (__aeabi_fmul)
+                              ./firmware/src/UART_bi.o (__aeabi_fmul)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
                               C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o) (__aeabi_memcpy)
 C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_nohost.a(__ciob.o)
@@ -95,443 +95,443 @@ C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.
 
 Discarded input sections
 
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ADC_Pote.o
- .text          0x00000000        0x0 ./src/ADC_Pote.o
- .data          0x00000000        0x0 ./src/ADC_Pote.o
- .bss           0x00000000        0x0 ./src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ADC_Pote.o
+ .text          0x00000000        0x0 ./firmware/src/ADC_Pote.o
+ .data          0x00000000        0x0 ./firmware/src/ADC_Pote.o
+ .bss           0x00000000        0x0 ./firmware/src/ADC_Pote.o
  .bss.ultima_lectura_adc
-                0x00000000        0x4 ./src/ADC_Pote.o
+                0x00000000        0x4 ./firmware/src/ADC_Pote.o
  .text.adc_pot_init
-                0x00000000       0x58 ./src/ADC_Pote.o
+                0x00000000       0x58 ./firmware/src/ADC_Pote.o
  .text.mapear_adc_a_frecuencia
-                0x00000000       0x30 ./src/ADC_Pote.o
+                0x00000000       0x30 ./firmware/src/ADC_Pote.o
  .text.calcular_timeout_dac
-                0x00000000       0x40 ./src/ADC_Pote.o
+                0x00000000       0x40 ./firmware/src/ADC_Pote.o
  .text.adc_pot_actualizar
-                0x00000000       0x98 ./src/ADC_Pote.o
- .debug_info    0x00000000      0x747 ./src/ADC_Pote.o
- .debug_abbrev  0x00000000      0x200 ./src/ADC_Pote.o
+                0x00000000       0x98 ./firmware/src/ADC_Pote.o
+ .debug_info    0x00000000      0x747 ./firmware/src/ADC_Pote.o
+ .debug_abbrev  0x00000000      0x200 ./firmware/src/ADC_Pote.o
  .debug_aranges
-                0x00000000       0x38 ./src/ADC_Pote.o
- .debug_ranges  0x00000000       0x28 ./src/ADC_Pote.o
- .debug_macro   0x00000000       0xcc ./src/ADC_Pote.o
- .debug_macro   0x00000000      0xade ./src/ADC_Pote.o
- .debug_macro   0x00000000       0x1c ./src/ADC_Pote.o
- .debug_macro   0x00000000       0x2e ./src/ADC_Pote.o
- .debug_macro   0x00000000       0x10 ./src/ADC_Pote.o
- .debug_macro   0x00000000      0x12e ./src/ADC_Pote.o
- .debug_macro   0x00000000      0x5b3 ./src/ADC_Pote.o
- .debug_macro   0x00000000       0x18 ./src/ADC_Pote.o
- .debug_macro   0x00000000      0x7af ./src/ADC_Pote.o
- .debug_macro   0x00000000      0x2c7 ./src/ADC_Pote.o
- .debug_macro   0x00000000       0x63 ./src/ADC_Pote.o
- .debug_macro   0x00000000       0xe5 ./src/ADC_Pote.o
- .debug_macro   0x00000000      0x13f ./src/ADC_Pote.o
- .debug_macro   0x00000000       0x22 ./src/ADC_Pote.o
- .debug_macro   0x00000000       0x3a ./src/ADC_Pote.o
- .debug_line    0x00000000      0x39e ./src/ADC_Pote.o
- .debug_str     0x00000000     0x9aa7 ./src/ADC_Pote.o
- .comment       0x00000000       0x46 ./src/ADC_Pote.o
- .debug_frame   0x00000000       0xa8 ./src/ADC_Pote.o
+                0x00000000       0x38 ./firmware/src/ADC_Pote.o
+ .debug_ranges  0x00000000       0x28 ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000       0xcc ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000      0xade ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000       0x2e ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000       0x10 ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000      0x12e ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000      0x5b3 ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000       0x18 ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000      0x7af ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000      0x2c7 ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000       0x63 ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000       0xe5 ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000      0x13f ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000       0x22 ./firmware/src/ADC_Pote.o
+ .debug_macro   0x00000000       0x3a ./firmware/src/ADC_Pote.o
+ .debug_line    0x00000000      0x36e ./firmware/src/ADC_Pote.o
+ .debug_str     0x00000000     0x9ab0 ./firmware/src/ADC_Pote.o
+ .comment       0x00000000       0x46 ./firmware/src/ADC_Pote.o
+ .debug_frame   0x00000000       0xa8 ./firmware/src/ADC_Pote.o
  .ARM.attributes
-                0x00000000       0x2d ./src/ADC_Pote.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/ProyectoFinal.o
- .text          0x00000000        0x0 ./src/ProyectoFinal.o
- .data          0x00000000        0x0 ./src/ProyectoFinal.o
- .bss           0x00000000        0x0 ./src/ProyectoFinal.o
+                0x00000000       0x2d ./firmware/src/ADC_Pote.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/ProyectoFinal.o
+ .text          0x00000000        0x0 ./firmware/src/ProyectoFinal.o
+ .data          0x00000000        0x0 ./firmware/src/ProyectoFinal.o
+ .bss           0x00000000        0x0 ./firmware/src/ProyectoFinal.o
  .text.NVIC_SetPriority
-                0x00000000       0x54 ./src/ProyectoFinal.o
+                0x00000000       0x54 ./firmware/src/ProyectoFinal.o
  .data.frecuencia_actual
-                0x00000000        0x4 ./src/ProyectoFinal.o
+                0x00000000        0x4 ./firmware/src/ProyectoFinal.o
  .data.amplitud_porcentaje
-                0x00000000        0x1 ./src/ProyectoFinal.o
+                0x00000000        0x1 ./firmware/src/ProyectoFinal.o
  .bss.tipo_senal_actual
-                0x00000000        0x1 ./src/ProyectoFinal.o
+                0x00000000        0x1 ./firmware/src/ProyectoFinal.o
  .data.flag_actualizar_lcd
-                0x00000000        0x1 ./src/ProyectoFinal.o
+                0x00000000        0x1 ./firmware/src/ProyectoFinal.o
  .bss.bloqueo_cambio_onda
-                0x00000000        0x1 ./src/ProyectoFinal.o
+                0x00000000        0x1 ./firmware/src/ProyectoFinal.o
  .bss.comando_listo_flag
-                0x00000000        0x1 ./src/ProyectoFinal.o
+                0x00000000        0x1 ./firmware/src/ProyectoFinal.o
  .bss.buffer_rx
-                0x00000000       0x32 ./src/ProyectoFinal.o
+                0x00000000       0x32 ./firmware/src/ProyectoFinal.o
  .bss.indice_rx
-                0x00000000        0x1 ./src/ProyectoFinal.o
+                0x00000000        0x1 ./firmware/src/ProyectoFinal.o
  .rodata.main.str1.4
-                0x00000000       0x25 ./src/ProyectoFinal.o
- .text.main     0x00000000       0xc0 ./src/ProyectoFinal.o
- .debug_info    0x00000000      0x65c ./src/ProyectoFinal.o
- .debug_abbrev  0x00000000      0x1e7 ./src/ProyectoFinal.o
+                0x00000000       0x25 ./firmware/src/ProyectoFinal.o
+ .text.main     0x00000000       0xc0 ./firmware/src/ProyectoFinal.o
+ .debug_info    0x00000000      0x65c ./firmware/src/ProyectoFinal.o
+ .debug_abbrev  0x00000000      0x1e7 ./firmware/src/ProyectoFinal.o
  .debug_aranges
-                0x00000000       0x28 ./src/ProyectoFinal.o
- .debug_ranges  0x00000000       0x18 ./src/ProyectoFinal.o
- .debug_macro   0x00000000      0x13d ./src/ProyectoFinal.o
- .debug_macro   0x00000000      0xade ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x1c ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x2e ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x10 ./src/ProyectoFinal.o
- .debug_macro   0x00000000      0x12e ./src/ProyectoFinal.o
- .debug_macro   0x00000000      0x5b3 ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x18 ./src/ProyectoFinal.o
- .debug_macro   0x00000000      0x7af ./src/ProyectoFinal.o
- .debug_macro   0x00000000      0x2c7 ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x63 ./src/ProyectoFinal.o
- .debug_macro   0x00000000      0x2a8 ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x40 ./src/ProyectoFinal.o
- .debug_macro   0x00000000      0x13f ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0xeb ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x22 ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x46 ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x1c ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x1c ./src/ProyectoFinal.o
- .debug_macro   0x00000000      0x33a ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x16 ./src/ProyectoFinal.o
- .debug_macro   0x00000000       0x9a ./src/ProyectoFinal.o
- .debug_line    0x00000000      0x41e ./src/ProyectoFinal.o
- .debug_str     0x00000000     0xca10 ./src/ProyectoFinal.o
- .comment       0x00000000       0x46 ./src/ProyectoFinal.o
- .debug_frame   0x00000000       0x58 ./src/ProyectoFinal.o
+                0x00000000       0x28 ./firmware/src/ProyectoFinal.o
+ .debug_ranges  0x00000000       0x18 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000      0x13d ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000      0xade ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x2e ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x10 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000      0x12e ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000      0x5b3 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x18 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000      0x7af ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000      0x2c7 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x63 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000      0x334 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x9a ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0xeb ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000      0x13f ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x22 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x46 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000      0x2ae ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x40 ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/ProyectoFinal.o
+ .debug_macro   0x00000000       0x16 ./firmware/src/ProyectoFinal.o
+ .debug_line    0x00000000      0x3ee ./firmware/src/ProyectoFinal.o
+ .debug_str     0x00000000     0xca19 ./firmware/src/ProyectoFinal.o
+ .comment       0x00000000       0x46 ./firmware/src/ProyectoFinal.o
+ .debug_frame   0x00000000       0x58 ./firmware/src/ProyectoFinal.o
  .ARM.attributes
-                0x00000000       0x2d ./src/ProyectoFinal.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .group         0x00000000        0xc ./src/UART_bi.o
- .text          0x00000000        0x0 ./src/UART_bi.o
- .data          0x00000000        0x0 ./src/UART_bi.o
- .bss           0x00000000        0x0 ./src/UART_bi.o
+                0x00000000       0x2d ./firmware/src/ProyectoFinal.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/UART_bi.o
+ .text          0x00000000        0x0 ./firmware/src/UART_bi.o
+ .data          0x00000000        0x0 ./firmware/src/UART_bi.o
+ .bss           0x00000000        0x0 ./firmware/src/UART_bi.o
  .text.NVIC_EnableIRQ
-                0x00000000       0x30 ./src/UART_bi.o
+                0x00000000       0x30 ./firmware/src/UART_bi.o
  .bss.estado_actual
-                0x00000000        0x1 ./src/UART_bi.o
- .bss.poly_a    0x00000000        0x4 ./src/UART_bi.o
- .bss.poly_b    0x00000000        0x4 ./src/UART_bi.o
- .bss.poly_c    0x00000000        0x4 ./src/UART_bi.o
+                0x00000000        0x1 ./firmware/src/UART_bi.o
+ .bss.poly_a    0x00000000        0x4 ./firmware/src/UART_bi.o
+ .bss.poly_b    0x00000000        0x4 ./firmware/src/UART_bi.o
+ .bss.poly_c    0x00000000        0x4 ./firmware/src/UART_bi.o
  .text.UART_cfg
-                0x00000000       0xa4 ./src/UART_bi.o
+                0x00000000       0xa4 ./firmware/src/UART_bi.o
  .text.Consola_EnviaMensaje
-                0x00000000       0x38 ./src/UART_bi.o
+                0x00000000       0x38 ./firmware/src/UART_bi.o
  .text.UART_SendString
-                0x00000000       0x3c ./src/UART_bi.o
+                0x00000000       0x3c ./firmware/src/UART_bi.o
  .text.UART_SendNum
-                0x00000000       0xa0 ./src/UART_bi.o
+                0x00000000       0xa0 ./firmware/src/UART_bi.o
  .rodata.UART_ReportarEstado.str1.4
-                0x00000000       0x68 ./src/UART_bi.o
+                0x00000000       0x68 ./firmware/src/UART_bi.o
  .text.UART_ReportarEstado
-                0x00000000       0x78 ./src/UART_bi.o
+                0x00000000       0x78 ./firmware/src/UART_bi.o
  .text.UART0_IRQHandler
-                0x00000000       0xa0 ./src/UART_bi.o
+                0x00000000       0xa0 ./firmware/src/UART_bi.o
  .rodata.ProcesarComando_UART.str1.4
-                0x00000000       0x25 ./src/UART_bi.o
+                0x00000000       0x25 ./firmware/src/UART_bi.o
  .text.ProcesarComando_UART
-                0x00000000      0x160 ./src/UART_bi.o
+                0x00000000      0x160 ./firmware/src/UART_bi.o
  .text.generar_onda_polinomial
-                0x00000000      0x20c ./src/UART_bi.o
- .debug_info    0x00000000     0x101a ./src/UART_bi.o
- .debug_abbrev  0x00000000      0x2bc ./src/UART_bi.o
+                0x00000000      0x20c ./firmware/src/UART_bi.o
+ .debug_info    0x00000000     0x101a ./firmware/src/UART_bi.o
+ .debug_abbrev  0x00000000      0x2bc ./firmware/src/UART_bi.o
  .debug_aranges
-                0x00000000       0x60 ./src/UART_bi.o
- .debug_ranges  0x00000000       0x68 ./src/UART_bi.o
- .debug_macro   0x00000000      0x10e ./src/UART_bi.o
- .debug_macro   0x00000000      0xade ./src/UART_bi.o
- .debug_macro   0x00000000       0x1c ./src/UART_bi.o
- .debug_macro   0x00000000       0x2e ./src/UART_bi.o
- .debug_macro   0x00000000       0x10 ./src/UART_bi.o
- .debug_macro   0x00000000      0x12e ./src/UART_bi.o
- .debug_macro   0x00000000      0x5b3 ./src/UART_bi.o
- .debug_macro   0x00000000       0x18 ./src/UART_bi.o
- .debug_macro   0x00000000      0x7af ./src/UART_bi.o
- .debug_macro   0x00000000      0x2c7 ./src/UART_bi.o
- .debug_macro   0x00000000       0x63 ./src/UART_bi.o
- .debug_macro   0x00000000      0x334 ./src/UART_bi.o
- .debug_macro   0x00000000      0x13f ./src/UART_bi.o
- .debug_macro   0x00000000      0x2ae ./src/UART_bi.o
- .debug_macro   0x00000000       0x40 ./src/UART_bi.o
- .debug_macro   0x00000000       0x9a ./src/UART_bi.o
- .debug_macro   0x00000000       0x22 ./src/UART_bi.o
- .debug_line    0x00000000      0x617 ./src/UART_bi.o
- .debug_str     0x00000000     0xc444 ./src/UART_bi.o
- .comment       0x00000000       0x46 ./src/UART_bi.o
- .debug_frame   0x00000000      0x154 ./src/UART_bi.o
+                0x00000000       0x60 ./firmware/src/UART_bi.o
+ .debug_ranges  0x00000000       0x68 ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000      0x10e ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000      0xade ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000       0x2e ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000       0x10 ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000      0x12e ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000      0x5b3 ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000       0x18 ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000      0x7af ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000      0x2c7 ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000       0x63 ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000      0x334 ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000      0x13f ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000       0x9a ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000       0x22 ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000      0x2ae ./firmware/src/UART_bi.o
+ .debug_macro   0x00000000       0x40 ./firmware/src/UART_bi.o
+ .debug_line    0x00000000      0x5e8 ./firmware/src/UART_bi.o
+ .debug_str     0x00000000     0xc44d ./firmware/src/UART_bi.o
+ .comment       0x00000000       0x46 ./firmware/src/UART_bi.o
+ .debug_frame   0x00000000      0x154 ./firmware/src/UART_bi.o
  .ARM.attributes
-                0x00000000       0x2d ./src/UART_bi.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .group         0x00000000        0xc ./src/control_botones.o
- .text          0x00000000        0x0 ./src/control_botones.o
- .data          0x00000000        0x0 ./src/control_botones.o
- .bss           0x00000000        0x0 ./src/control_botones.o
+                0x00000000       0x2d ./firmware/src/UART_bi.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/control_botones.o
+ .text          0x00000000        0x0 ./firmware/src/control_botones.o
+ .data          0x00000000        0x0 ./firmware/src/control_botones.o
+ .bss           0x00000000        0x0 ./firmware/src/control_botones.o
  .text.NVIC_EnableIRQ
-                0x00000000       0x30 ./src/control_botones.o
+                0x00000000       0x30 ./firmware/src/control_botones.o
  .text.botones_init
-                0x00000000       0x64 ./src/control_botones.o
+                0x00000000       0x64 ./firmware/src/control_botones.o
  .text.EINT3_IRQHandler
-                0x00000000       0x9c ./src/control_botones.o
- .debug_info    0x00000000      0x4b9 ./src/control_botones.o
- .debug_abbrev  0x00000000      0x1c7 ./src/control_botones.o
+                0x00000000       0x9c ./firmware/src/control_botones.o
+ .debug_info    0x00000000      0x4b9 ./firmware/src/control_botones.o
+ .debug_abbrev  0x00000000      0x1c7 ./firmware/src/control_botones.o
  .debug_aranges
-                0x00000000       0x30 ./src/control_botones.o
- .debug_ranges  0x00000000       0x20 ./src/control_botones.o
- .debug_macro   0x00000000       0xdf ./src/control_botones.o
- .debug_macro   0x00000000      0xade ./src/control_botones.o
- .debug_macro   0x00000000       0x1c ./src/control_botones.o
- .debug_macro   0x00000000       0x2e ./src/control_botones.o
- .debug_macro   0x00000000       0x10 ./src/control_botones.o
- .debug_macro   0x00000000      0x12e ./src/control_botones.o
- .debug_macro   0x00000000      0x5b3 ./src/control_botones.o
- .debug_macro   0x00000000       0x18 ./src/control_botones.o
- .debug_macro   0x00000000      0x7af ./src/control_botones.o
- .debug_macro   0x00000000      0x2c7 ./src/control_botones.o
- .debug_macro   0x00000000       0x63 ./src/control_botones.o
- .debug_macro   0x00000000      0x13f ./src/control_botones.o
- .debug_macro   0x00000000       0x40 ./src/control_botones.o
- .debug_macro   0x00000000       0x1c ./src/control_botones.o
- .debug_macro   0x00000000      0x2ae ./src/control_botones.o
- .debug_macro   0x00000000       0x40 ./src/control_botones.o
- .debug_line    0x00000000      0x3de ./src/control_botones.o
- .debug_str     0x00000000     0xa77a ./src/control_botones.o
- .comment       0x00000000       0x46 ./src/control_botones.o
- .debug_frame   0x00000000       0x78 ./src/control_botones.o
+                0x00000000       0x30 ./firmware/src/control_botones.o
+ .debug_ranges  0x00000000       0x20 ./firmware/src/control_botones.o
+ .debug_macro   0x00000000       0xdf ./firmware/src/control_botones.o
+ .debug_macro   0x00000000      0xade ./firmware/src/control_botones.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/control_botones.o
+ .debug_macro   0x00000000       0x2e ./firmware/src/control_botones.o
+ .debug_macro   0x00000000       0x10 ./firmware/src/control_botones.o
+ .debug_macro   0x00000000      0x12e ./firmware/src/control_botones.o
+ .debug_macro   0x00000000      0x5b3 ./firmware/src/control_botones.o
+ .debug_macro   0x00000000       0x18 ./firmware/src/control_botones.o
+ .debug_macro   0x00000000      0x7af ./firmware/src/control_botones.o
+ .debug_macro   0x00000000      0x2c7 ./firmware/src/control_botones.o
+ .debug_macro   0x00000000       0x63 ./firmware/src/control_botones.o
+ .debug_macro   0x00000000      0x13f ./firmware/src/control_botones.o
+ .debug_macro   0x00000000       0x40 ./firmware/src/control_botones.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/control_botones.o
+ .debug_macro   0x00000000      0x2ae ./firmware/src/control_botones.o
+ .debug_macro   0x00000000       0x40 ./firmware/src/control_botones.o
+ .debug_line    0x00000000      0x3ae ./firmware/src/control_botones.o
+ .debug_str     0x00000000     0xa783 ./firmware/src/control_botones.o
+ .comment       0x00000000       0x46 ./firmware/src/control_botones.o
+ .debug_frame   0x00000000       0x78 ./firmware/src/control_botones.o
  .ARM.attributes
-                0x00000000       0x2d ./src/control_botones.o
- .group         0x00000000        0xc ./src/crp.o
- .group         0x00000000        0xc ./src/crp.o
- .text          0x00000000        0x0 ./src/crp.o
- .data          0x00000000        0x0 ./src/crp.o
- .bss           0x00000000        0x0 ./src/crp.o
- .debug_macro   0x00000000      0xade ./src/crp.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/dac_dma_signals.o
- .text          0x00000000        0x0 ./src/dac_dma_signals.o
- .data          0x00000000        0x0 ./src/dac_dma_signals.o
- .bss           0x00000000        0x0 ./src/dac_dma_signals.o
+                0x00000000       0x2d ./firmware/src/control_botones.o
+ .group         0x00000000        0xc ./firmware/src/crp.o
+ .group         0x00000000        0xc ./firmware/src/crp.o
+ .text          0x00000000        0x0 ./firmware/src/crp.o
+ .data          0x00000000        0x0 ./firmware/src/crp.o
+ .bss           0x00000000        0x0 ./firmware/src/crp.o
+ .debug_macro   0x00000000      0xade ./firmware/src/crp.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/dac_dma_signals.o
+ .text          0x00000000        0x0 ./firmware/src/dac_dma_signals.o
+ .data          0x00000000        0x0 ./firmware/src/dac_dma_signals.o
+ .bss           0x00000000        0x0 ./firmware/src/dac_dma_signals.o
  .bss.tabla_seno
-                0x00000000      0x800 ./src/dac_dma_signals.o
+                0x00000000      0x800 ./firmware/src/dac_dma_signals.o
  .bss.tabla_triang
-                0x00000000      0x800 ./src/dac_dma_signals.o
+                0x00000000      0x800 ./firmware/src/dac_dma_signals.o
  .bss.tabla_cuad
-                0x00000000      0x800 ./src/dac_dma_signals.o
+                0x00000000      0x800 ./firmware/src/dac_dma_signals.o
  .bss.tabla_usuario
-                0x00000000      0x800 ./src/dac_dma_signals.o
+                0x00000000      0x800 ./firmware/src/dac_dma_signals.o
  .bss.tabla_salida_dma
-                0x00000000      0x800 ./src/dac_dma_signals.o
+                0x00000000      0x800 ./firmware/src/dac_dma_signals.o
  .bss.LLI_Circular
-                0x00000000       0x10 ./src/dac_dma_signals.o
+                0x00000000       0x10 ./firmware/src/dac_dma_signals.o
  .text.signals_generar_tablas_fijas
-                0x00000000      0x108 ./src/dac_dma_signals.o
+                0x00000000      0x108 ./firmware/src/dac_dma_signals.o
  .text.signals_actualizar_amplitud
-                0x00000000       0xd8 ./src/dac_dma_signals.o
+                0x00000000       0xd8 ./firmware/src/dac_dma_signals.o
  .text.signals_init
-                0x00000000       0xb0 ./src/dac_dma_signals.o
- .debug_info    0x00000000      0x516 ./src/dac_dma_signals.o
- .debug_abbrev  0x00000000      0x1f0 ./src/dac_dma_signals.o
+                0x00000000       0xb0 ./firmware/src/dac_dma_signals.o
+ .debug_info    0x00000000      0x516 ./firmware/src/dac_dma_signals.o
+ .debug_abbrev  0x00000000      0x1f0 ./firmware/src/dac_dma_signals.o
  .debug_aranges
-                0x00000000       0x30 ./src/dac_dma_signals.o
- .debug_ranges  0x00000000       0x20 ./src/dac_dma_signals.o
- .debug_macro   0x00000000       0xdf ./src/dac_dma_signals.o
- .debug_macro   0x00000000      0xade ./src/dac_dma_signals.o
- .debug_macro   0x00000000       0x1c ./src/dac_dma_signals.o
- .debug_macro   0x00000000       0x2e ./src/dac_dma_signals.o
- .debug_macro   0x00000000       0x10 ./src/dac_dma_signals.o
- .debug_macro   0x00000000      0x12e ./src/dac_dma_signals.o
- .debug_macro   0x00000000      0x5b3 ./src/dac_dma_signals.o
- .debug_macro   0x00000000       0x18 ./src/dac_dma_signals.o
- .debug_macro   0x00000000      0x7af ./src/dac_dma_signals.o
- .debug_macro   0x00000000      0x2c7 ./src/dac_dma_signals.o
- .debug_macro   0x00000000       0x63 ./src/dac_dma_signals.o
- .debug_macro   0x00000000      0x2a8 ./src/dac_dma_signals.o
- .debug_macro   0x00000000       0x40 ./src/dac_dma_signals.o
- .debug_macro   0x00000000      0x13f ./src/dac_dma_signals.o
- .debug_macro   0x00000000      0x2f7 ./src/dac_dma_signals.o
- .debug_macro   0x00000000       0xc4 ./src/dac_dma_signals.o
- .debug_line    0x00000000      0x42d ./src/dac_dma_signals.o
- .debug_str     0x00000000     0xbb33 ./src/dac_dma_signals.o
- .comment       0x00000000       0x46 ./src/dac_dma_signals.o
- .debug_frame   0x00000000       0x7c ./src/dac_dma_signals.o
+                0x00000000       0x30 ./firmware/src/dac_dma_signals.o
+ .debug_ranges  0x00000000       0x20 ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000       0xdf ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000      0xade ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000       0x2e ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000       0x10 ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000      0x12e ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000      0x5b3 ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000       0x18 ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000      0x7af ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000      0x2c7 ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000       0x63 ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000      0x2a8 ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000       0x40 ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000      0x13f ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000      0x2f7 ./firmware/src/dac_dma_signals.o
+ .debug_macro   0x00000000       0xc4 ./firmware/src/dac_dma_signals.o
+ .debug_line    0x00000000      0x3fd ./firmware/src/dac_dma_signals.o
+ .debug_str     0x00000000     0xbb3c ./firmware/src/dac_dma_signals.o
+ .comment       0x00000000       0x46 ./firmware/src/dac_dma_signals.o
+ .debug_frame   0x00000000       0x7c ./firmware/src/dac_dma_signals.o
  .ARM.attributes
-                0x00000000       0x2d ./src/dac_dma_signals.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/encoder_amp.o
- .text          0x00000000        0x0 ./src/encoder_amp.o
- .data          0x00000000        0x0 ./src/encoder_amp.o
- .bss           0x00000000        0x0 ./src/encoder_amp.o
+                0x00000000       0x2d ./firmware/src/dac_dma_signals.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/encoder_amp.o
+ .text          0x00000000        0x0 ./firmware/src/encoder_amp.o
+ .data          0x00000000        0x0 ./firmware/src/encoder_amp.o
+ .bss           0x00000000        0x0 ./firmware/src/encoder_amp.o
  .text.NVIC_EnableIRQ
-                0x00000000       0x30 ./src/encoder_amp.o
+                0x00000000       0x30 ./firmware/src/encoder_amp.o
  .text.encoder_init
-                0x00000000       0x54 ./src/encoder_amp.o
+                0x00000000       0x54 ./firmware/src/encoder_amp.o
  .text.encoder_procesar_giro
-                0x00000000       0x84 ./src/encoder_amp.o
- .debug_info    0x00000000      0x4db ./src/encoder_amp.o
- .debug_abbrev  0x00000000      0x1b1 ./src/encoder_amp.o
+                0x00000000       0x84 ./firmware/src/encoder_amp.o
+ .debug_info    0x00000000      0x4db ./firmware/src/encoder_amp.o
+ .debug_abbrev  0x00000000      0x1b1 ./firmware/src/encoder_amp.o
  .debug_aranges
-                0x00000000       0x30 ./src/encoder_amp.o
- .debug_ranges  0x00000000       0x20 ./src/encoder_amp.o
- .debug_macro   0x00000000       0xdf ./src/encoder_amp.o
- .debug_macro   0x00000000      0xade ./src/encoder_amp.o
- .debug_macro   0x00000000       0x1c ./src/encoder_amp.o
- .debug_macro   0x00000000       0x2e ./src/encoder_amp.o
- .debug_macro   0x00000000       0x10 ./src/encoder_amp.o
- .debug_macro   0x00000000      0x12e ./src/encoder_amp.o
- .debug_macro   0x00000000      0x5b3 ./src/encoder_amp.o
- .debug_macro   0x00000000       0x18 ./src/encoder_amp.o
- .debug_macro   0x00000000      0x7af ./src/encoder_amp.o
- .debug_macro   0x00000000      0x2c7 ./src/encoder_amp.o
- .debug_macro   0x00000000       0x63 ./src/encoder_amp.o
- .debug_macro   0x00000000      0x13f ./src/encoder_amp.o
- .debug_macro   0x00000000       0x40 ./src/encoder_amp.o
- .debug_macro   0x00000000       0x16 ./src/encoder_amp.o
- .debug_macro   0x00000000      0x2ae ./src/encoder_amp.o
- .debug_macro   0x00000000       0x40 ./src/encoder_amp.o
- .debug_line    0x00000000      0x39c ./src/encoder_amp.o
- .debug_str     0x00000000     0xa775 ./src/encoder_amp.o
- .comment       0x00000000       0x46 ./src/encoder_amp.o
- .debug_frame   0x00000000       0x80 ./src/encoder_amp.o
+                0x00000000       0x30 ./firmware/src/encoder_amp.o
+ .debug_ranges  0x00000000       0x20 ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000       0xdf ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000      0xade ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000       0x2e ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000       0x10 ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000      0x12e ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000      0x5b3 ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000       0x18 ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000      0x7af ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000      0x2c7 ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000       0x63 ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000      0x13f ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000       0x40 ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000       0x16 ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000      0x2ae ./firmware/src/encoder_amp.o
+ .debug_macro   0x00000000       0x40 ./firmware/src/encoder_amp.o
+ .debug_line    0x00000000      0x36c ./firmware/src/encoder_amp.o
+ .debug_str     0x00000000     0xa77e ./firmware/src/encoder_amp.o
+ .comment       0x00000000       0x46 ./firmware/src/encoder_amp.o
+ .debug_frame   0x00000000       0x80 ./firmware/src/encoder_amp.o
  .ARM.attributes
-                0x00000000       0x2d ./src/encoder_amp.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .group         0x00000000        0xc ./src/pantalla_LCD.o
- .text          0x00000000        0x0 ./src/pantalla_LCD.o
- .data          0x00000000        0x0 ./src/pantalla_LCD.o
- .bss           0x00000000        0x0 ./src/pantalla_LCD.o
+                0x00000000       0x2d ./firmware/src/encoder_amp.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .group         0x00000000        0xc ./firmware/src/pantalla_LCD.o
+ .text          0x00000000        0x0 ./firmware/src/pantalla_LCD.o
+ .data          0x00000000        0x0 ./firmware/src/pantalla_LCD.o
+ .bss           0x00000000        0x0 ./firmware/src/pantalla_LCD.o
  .text.lcd_pins_init
-                0x00000000       0xac ./src/pantalla_LCD.o
+                0x00000000       0xac ./firmware/src/pantalla_LCD.o
  .text.LCD_Pulso
-                0x00000000       0x50 ./src/pantalla_LCD.o
+                0x00000000       0x50 ./firmware/src/pantalla_LCD.o
  .text.LCD_EnviarByte
-                0x00000000       0x60 ./src/pantalla_LCD.o
+                0x00000000       0x60 ./firmware/src/pantalla_LCD.o
  .text.LCD_Init
-                0x00000000       0x74 ./src/pantalla_LCD.o
+                0x00000000       0x74 ./firmware/src/pantalla_LCD.o
  .text.LCD_EscribirFrase
-                0x00000000       0x3a ./src/pantalla_LCD.o
+                0x00000000       0x3a ./firmware/src/pantalla_LCD.o
  .text.LCD_EscribirNum
-                0x00000000       0x28 ./src/pantalla_LCD.o
+                0x00000000       0x28 ./firmware/src/pantalla_LCD.o
  .rodata.Actualizar_Telemetria.str1.4
-                0x00000000       0x3e ./src/pantalla_LCD.o
+                0x00000000       0x3e ./firmware/src/pantalla_LCD.o
  .text.Actualizar_Telemetria
-                0x00000000       0xf0 ./src/pantalla_LCD.o
- .debug_info    0x00000000      0x9b7 ./src/pantalla_LCD.o
- .debug_abbrev  0x00000000      0x217 ./src/pantalla_LCD.o
+                0x00000000       0xf0 ./firmware/src/pantalla_LCD.o
+ .debug_info    0x00000000      0x9b7 ./firmware/src/pantalla_LCD.o
+ .debug_abbrev  0x00000000      0x217 ./firmware/src/pantalla_LCD.o
  .debug_aranges
-                0x00000000       0x50 ./src/pantalla_LCD.o
- .debug_ranges  0x00000000       0x40 ./src/pantalla_LCD.o
- .debug_macro   0x00000000      0x103 ./src/pantalla_LCD.o
- .debug_macro   0x00000000      0xade ./src/pantalla_LCD.o
- .debug_macro   0x00000000       0x1c ./src/pantalla_LCD.o
- .debug_macro   0x00000000       0x2e ./src/pantalla_LCD.o
- .debug_macro   0x00000000       0x10 ./src/pantalla_LCD.o
- .debug_macro   0x00000000      0x12e ./src/pantalla_LCD.o
- .debug_macro   0x00000000      0x5b3 ./src/pantalla_LCD.o
- .debug_macro   0x00000000       0x18 ./src/pantalla_LCD.o
- .debug_macro   0x00000000      0x7af ./src/pantalla_LCD.o
- .debug_macro   0x00000000      0x2c7 ./src/pantalla_LCD.o
- .debug_macro   0x00000000       0x63 ./src/pantalla_LCD.o
- .debug_macro   0x00000000      0x13f ./src/pantalla_LCD.o
- .debug_macro   0x00000000       0x40 ./src/pantalla_LCD.o
- .debug_macro   0x00000000       0x10 ./src/pantalla_LCD.o
- .debug_macro   0x00000000      0x33a ./src/pantalla_LCD.o
- .debug_macro   0x00000000       0x22 ./src/pantalla_LCD.o
- .debug_line    0x00000000      0x4dc ./src/pantalla_LCD.o
- .debug_str     0x00000000     0xaa6b ./src/pantalla_LCD.o
- .comment       0x00000000       0x46 ./src/pantalla_LCD.o
- .debug_frame   0x00000000      0x110 ./src/pantalla_LCD.o
+                0x00000000       0x50 ./firmware/src/pantalla_LCD.o
+ .debug_ranges  0x00000000       0x40 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000      0x103 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000      0xade ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000       0x1c ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000       0x2e ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000       0x10 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000      0x12e ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000      0x5b3 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000       0x18 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000      0x7af ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000      0x2c7 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000       0x63 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000      0x13f ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000       0x40 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000       0x10 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000       0x22 ./firmware/src/pantalla_LCD.o
+ .debug_macro   0x00000000      0x33a ./firmware/src/pantalla_LCD.o
+ .debug_line    0x00000000      0x4ac ./firmware/src/pantalla_LCD.o
+ .debug_str     0x00000000     0xaa74 ./firmware/src/pantalla_LCD.o
+ .comment       0x00000000       0x46 ./firmware/src/pantalla_LCD.o
+ .debug_frame   0x00000000      0x110 ./firmware/src/pantalla_LCD.o
  .ARM.attributes
-                0x00000000       0x2d ./src/pantalla_LCD.o
+                0x00000000       0x2d ./firmware/src/pantalla_LCD.o
  .group         0x00000000        0xc C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
  .group         0x00000000        0xc C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
  .group         0x00000000        0xc C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
@@ -1834,14 +1834,14 @@ RamAHB32         0x2007c000         0x00008000         xrw
 
 Linker script and memory map
 
-LOAD ./src/ADC_Pote.o
-LOAD ./src/ProyectoFinal.o
-LOAD ./src/UART_bi.o
-LOAD ./src/control_botones.o
-LOAD ./src/crp.o
-LOAD ./src/dac_dma_signals.o
-LOAD ./src/encoder_amp.o
-LOAD ./src/pantalla_LCD.o
+LOAD ./firmware/src/ADC_Pote.o
+LOAD ./firmware/src/ProyectoFinal.o
+LOAD ./firmware/src/UART_bi.o
+LOAD ./firmware/src/control_botones.o
+LOAD ./firmware/src/crp.o
+LOAD ./firmware/src/dac_dma_signals.o
+LOAD ./firmware/src/encoder_amp.o
+LOAD ./firmware/src/pantalla_LCD.o
 LOAD C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a
 START GROUP
 LOAD C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_nohost.a
@@ -1888,7 +1888,7 @@ END GROUP
  *fill*         0x00000028      0x2d4 ff
                 0x000002fc                        PROVIDE (__CRP_WORD_START__ = .)
  *(.crp)
- .crp           0x000002fc        0x4 ./src/crp.o
+ .crp           0x000002fc        0x4 ./firmware/src/crp.o
                 0x000002fc                CRP_WORD
                 0x00000300                        PROVIDE (__CRP_WORD_END__ = .)
                 0x00000001                        ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
@@ -2007,58 +2007,58 @@ OUTPUT(ProyectoFinalV2.axf elf32-littlearm)
 LOAD linker stubs
 
 .debug_info     0x00000000       0x40
- .debug_info    0x00000000       0x40 ./src/crp.o
+ .debug_info    0x00000000       0x40 ./firmware/src/crp.o
 
 .debug_abbrev   0x00000000       0x38
- .debug_abbrev  0x00000000       0x38 ./src/crp.o
+ .debug_abbrev  0x00000000       0x38 ./firmware/src/crp.o
 
 .debug_aranges  0x00000000       0x18
  .debug_aranges
-                0x00000000       0x18 ./src/crp.o
+                0x00000000       0x18 ./firmware/src/crp.o
 
 .debug_macro    0x00000000       0x4e
- .debug_macro   0x00000000       0x1a ./src/crp.o
- .debug_macro   0x0000001a       0x34 ./src/crp.o
+ .debug_macro   0x00000000       0x1a ./firmware/src/crp.o
+ .debug_macro   0x0000001a       0x34 ./firmware/src/crp.o
 
-.debug_line     0x00000000       0xae
- .debug_line    0x00000000       0xae ./src/crp.o
+.debug_line     0x00000000       0xb7
+ .debug_line    0x00000000       0xb7 ./firmware/src/crp.o
 
-.debug_str      0x00000000     0x2f75
- .debug_str     0x00000000     0x2f75 ./src/crp.o
-                               0x2f82 (size before relaxing)
+.debug_str      0x00000000     0x2f7e
+ .debug_str     0x00000000     0x2f7e ./firmware/src/crp.o
+                               0x2f8b (size before relaxing)
 
 .comment        0x00000000       0x45
- .comment       0x00000000       0x45 ./src/crp.o
+ .comment       0x00000000       0x45 ./firmware/src/crp.o
                                  0x46 (size before relaxing)
 
 .ARM.attributes
                 0x00000000       0x2b
  .ARM.attributes
-                0x00000000       0x2d ./src/crp.o
+                0x00000000       0x2d ./firmware/src/crp.o
 
 Cross Reference Table
 
 Symbol                                            File
 ADC_BurstCmd                                      C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
 ADC_ChannelCmd                                    C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                                                  ./src/ADC_Pote.o
+                                                  ./firmware/src/ADC_Pote.o
 ADC_ChannelGetData                                C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                                                  ./src/ADC_Pote.o
+                                                  ./firmware/src/ADC_Pote.o
 ADC_ChannelGetStatus                              C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                                                  ./src/ADC_Pote.o
+                                                  ./firmware/src/ADC_Pote.o
 ADC_DeInit                                        C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
 ADC_EdgeStartConfig                               C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
 ADC_GetData                                       C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
 ADC_GlobalGetData                                 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
 ADC_GlobalGetStatus                               C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
 ADC_Init                                          C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                                                  ./src/ADC_Pote.o
+                                                  ./firmware/src/ADC_Pote.o
 ADC_IntConfig                                     C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
 ADC_PowerdownCmd                                  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
 ADC_StartCmd                                      C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-                                                  ./src/ADC_Pote.o
-Actualizar_Telemetria                             ./src/pantalla_LCD.o
-                                                  ./src/ProyectoFinal.o
+                                                  ./firmware/src/ADC_Pote.o
+Actualizar_Telemetria                             ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/ProyectoFinal.o
 CLKPWR_ConfigPPWR                                 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
                                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
                                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
@@ -2072,17 +2072,17 @@ CLKPWR_GetPCLKSEL                                 C:\Users\USUARIO\Documents\MCU
 CLKPWR_PowerDown                                  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
 CLKPWR_SetPCLKDiv                                 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
 CLKPWR_Sleep                                      C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
-CRP_WORD                                          ./src/crp.o
-Consola_EnviaMensaje                              ./src/UART_bi.o
+CRP_WORD                                          ./firmware/src/crp.o
+Consola_EnviaMensaje                              ./firmware/src/UART_bi.o
 DAC_ConfigDAConverterControl                      C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_dac.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 DAC_Init                                          C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_dac.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 DAC_SetBias                                       C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_dac.o)
 DAC_SetDMATimeOut                                 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_dac.o)
-                                                  ./src/ADC_Pote.o
+                                                  ./firmware/src/ADC_Pote.o
 DAC_UpdateValue                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_dac.o)
-EINT3_IRQHandler                                  ./src/control_botones.o
+EINT3_IRQHandler                                  ./firmware/src/control_botones.o
 FIO_ByteClearValue                                C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
 FIO_ByteReadValue                                 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
 FIO_ByteSetDir                                    C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
@@ -2102,72 +2102,72 @@ FIO_SetDir                                        C:\Users\USUARIO\Documents\MCU
 FIO_SetMask                                       C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
 FIO_SetValue                                      C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
 GPDMA_ChannelCmd                                  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 GPDMA_ClearIntPending                             C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
 GPDMA_Init                                        C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 GPDMA_IntGetStatus                                C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
 GPDMA_LUTPerAddr                                  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
 GPDMA_LUTPerBurst                                 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
 GPDMA_LUTPerWid                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
 GPDMA_Setup                                       C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 GPIO_ClearInt                                     C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
 GPIO_ClearValue                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
 GPIO_GetIntStatus                                 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
 GPIO_IntCmd                                       C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
 GPIO_ReadValue                                    C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                                                  ./src/encoder_amp.o
+                                                  ./firmware/src/encoder_amp.o
 GPIO_SetDir                                       C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-                                                  ./src/pantalla_LCD.o
-                                                  ./src/encoder_amp.o
-                                                  ./src/control_botones.o
+                                                  ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/encoder_amp.o
+                                                  ./firmware/src/control_botones.o
 GPIO_SetValue                                     C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpio.o)
-LCD_EnviarByte                                    ./src/pantalla_LCD.o
-                                                  ./src/ProyectoFinal.o
-LCD_EscribirFrase                                 ./src/pantalla_LCD.o
-                                                  ./src/ProyectoFinal.o
-LCD_EscribirNum                                   ./src/pantalla_LCD.o
-LCD_Init                                          ./src/pantalla_LCD.o
-                                                  ./src/ProyectoFinal.o
-LCD_Pulso                                         ./src/pantalla_LCD.o
-LLI_Circular                                      ./src/dac_dma_signals.o
+LCD_EnviarByte                                    ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/ProyectoFinal.o
+LCD_EscribirFrase                                 ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/ProyectoFinal.o
+LCD_EscribirNum                                   ./firmware/src/pantalla_LCD.o
+LCD_Init                                          ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/ProyectoFinal.o
+LCD_Pulso                                         ./firmware/src/pantalla_LCD.o
+LLI_Circular                                      ./firmware/src/dac_dma_signals.o
 PINSEL_ConfigPin                                  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
-                                                  ./src/pantalla_LCD.o
-                                                  ./src/encoder_amp.o
-                                                  ./src/dac_dma_signals.o
-                                                  ./src/control_botones.o
-                                                  ./src/UART_bi.o
-                                                  ./src/ADC_Pote.o
+                                                  ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/encoder_amp.o
+                                                  ./firmware/src/dac_dma_signals.o
+                                                  ./firmware/src/control_botones.o
+                                                  ./firmware/src/UART_bi.o
+                                                  ./firmware/src/ADC_Pote.o
 PINSEL_ConfigTraceFunc                            C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
 PINSEL_SetI2C0Pins                                C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_pinsel.o)
-ProcesarComando_UART                              ./src/UART_bi.o
-                                                  ./src/ProyectoFinal.o
+ProcesarComando_UART                              ./firmware/src/UART_bi.o
+                                                  ./firmware/src/ProyectoFinal.o
 SystemCoreClock                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
                                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_clkpwr.o)
 SystemCoreClockUpdate                             C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
 SystemInit                                        C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
-                                                  ./src/ProyectoFinal.o
-UART0_IRQHandler                                  ./src/UART_bi.o
+                                                  ./firmware/src/ProyectoFinal.o
+UART0_IRQHandler                                  ./firmware/src/UART_bi.o
 UART_ABClearIntPending                            C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_ABCmd                                        C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_CheckBusy                                    C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_ConfigStructInit                             C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_DeInit                                       C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_FIFOConfig                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 UART_FIFOConfigStructInit                         C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_ForceBreak                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_FullModemConfigMode                          C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_FullModemForcePinState                       C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_FullModemGetStatus                           C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_GetIntId                                     C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 UART_GetLineStatus                                C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_Init                                         C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 UART_IntConfig                                    C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 UART_IrDACmd                                      C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_IrDAInvtInputCmd                             C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_IrDAPulseDivConfig                           C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
@@ -2178,19 +2178,19 @@ UART_RS485SendData                                C:\Users\USUARIO\Documents\MCU
 UART_RS485SendSlvAddr                             C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_Receive                                      C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
 UART_ReceiveByte                                  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                                                  ./src/UART_bi.o
-UART_ReportarEstado                               ./src/UART_bi.o
-                                                  ./src/pantalla_LCD.o
+                                                  ./firmware/src/UART_bi.o
+UART_ReportarEstado                               ./firmware/src/UART_bi.o
+                                                  ./firmware/src/pantalla_LCD.o
 UART_Send                                         C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 UART_SendByte                                     C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                                                  ./src/UART_bi.o
-UART_SendNum                                      ./src/UART_bi.o
-UART_SendString                                   ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
+UART_SendNum                                      ./firmware/src/UART_bi.o
+UART_SendString                                   ./firmware/src/UART_bi.o
 UART_TxCmd                                        C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
-                                                  ./src/UART_bi.o
-UART_cfg                                          ./src/UART_bi.o
-                                                  ./src/ProyectoFinal.o
+                                                  ./firmware/src/UART_bi.o
+UART_cfg                                          ./firmware/src/UART_bi.o
+                                                  ./firmware/src/ProyectoFinal.o
 _Csys_alloc                                       C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_deferredlazyseek.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__fillbuf.o)
@@ -2208,17 +2208,17 @@ __aeabi_cfcmple                                   C:/nxp/MCUXpressoIDE_25.6.136/
 __aeabi_cfrcmple                                  C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_d2f                                       C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_d2iz                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_sincos.o)
 __aeabi_d2lz                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
 __aeabi_d2uiz                                     C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 __aeabi_d2ulz                                     C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
 __aeabi_dadd                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_sincos.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 __aeabi_dcmpeq                                    C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_ldexpl.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_frexpl.o)
@@ -2235,11 +2235,11 @@ __aeabi_dcmpun                                    C:/nxp/MCUXpressoIDE_25.6.136/
 __aeabi_ddiv                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_sincos.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 __aeabi_dmul                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_sincos.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 __aeabi_dneg                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
 __aeabi_drsub                                     C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
 __aeabi_dsub                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
@@ -2247,39 +2247,39 @@ __aeabi_dsub                                      C:/nxp/MCUXpressoIDE_25.6.136/
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
 __aeabi_f2d                                       C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_f2iz                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 __aeabi_f2lz                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_f2uiz                                     C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_f2ulz                                     C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_fadd                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_fcmpeq                                    C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_fcmpge                                    C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_fcmpgt                                    C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_fcmple                                    C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_fcmplt                                    C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_fcmpun                                    C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_fdiv                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/dac_dma_signals.o
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/dac_dma_signals.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_fmul                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/dac_dma_signals.o
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/dac_dma_signals.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_fneg                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_frsub                                     C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_fsub                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_i2d                                       C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_sincos.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 __aeabi_i2f                                       C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/dac_dma_signals.o
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/dac_dma_signals.o
+                                                  ./firmware/src/UART_bi.o
 __aeabi_idiv0                                     C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
 __aeabi_l2d                                       C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
@@ -2302,7 +2302,7 @@ __aeabi_memset4                                   C:/nxp/MCUXpressoIDE_25.6.136/
 __aeabi_memset8                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
 __aeabi_ui2d                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
 __aeabi_ui2f                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 __aeabi_ul2d                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(double.o)
 __aeabi_ul2f                                      C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(float.o)
 __aeabi_uldivmod                                  C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
@@ -2362,39 +2362,39 @@ _sbrk                                             C:/nxp/MCUXpressoIDE_25.6.136/
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
 _sincos                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_sincos.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(sin.o)
-adc_pot_actualizar                                ./src/ADC_Pote.o
-                                                  ./src/ProyectoFinal.o
-adc_pot_init                                      ./src/ADC_Pote.o
-                                                  ./src/ProyectoFinal.o
-amplitud_porcentaje                               ./src/ProyectoFinal.o
-                                                  ./src/pantalla_LCD.o
-                                                  ./src/encoder_amp.o
-                                                  ./src/dac_dma_signals.o
+adc_pot_actualizar                                ./firmware/src/ADC_Pote.o
+                                                  ./firmware/src/ProyectoFinal.o
+adc_pot_init                                      ./firmware/src/ADC_Pote.o
+                                                  ./firmware/src/ProyectoFinal.o
+amplitud_porcentaje                               ./firmware/src/ProyectoFinal.o
+                                                  ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/encoder_amp.o
+                                                  ./firmware/src/dac_dma_signals.o
 atof                                              C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 atoi                                              C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
 atol                                              C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
 atoll                                             C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-bloqueo_cambio_onda                               ./src/ProyectoFinal.o
-                                                  ./src/control_botones.o
-                                                  ./src/UART_bi.o
-botones_init                                      ./src/control_botones.o
-                                                  ./src/ProyectoFinal.o
-buffer_rx                                         ./src/ProyectoFinal.o
-                                                  ./src/UART_bi.o
-calcular_timeout_dac                              ./src/ADC_Pote.o
+bloqueo_cambio_onda                               ./firmware/src/ProyectoFinal.o
+                                                  ./firmware/src/control_botones.o
+                                                  ./firmware/src/UART_bi.o
+botones_init                                      ./firmware/src/control_botones.o
+                                                  ./firmware/src/ProyectoFinal.o
+buffer_rx                                         ./firmware/src/ProyectoFinal.o
+                                                  ./firmware/src/UART_bi.o
+calcular_timeout_dac                              ./firmware/src/ADC_Pote.o
 calloc                                            C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
 check_failed                                      C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_libcfg_default.o)
                                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_uart.o)
                                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
                                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_dac.o)
                                                   C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_adc.o)
-comando_listo_flag                                ./src/ProyectoFinal.o
-                                                  ./src/UART_bi.o
-encoder_init                                      ./src/encoder_amp.o
-                                                  ./src/ProyectoFinal.o
-encoder_procesar_giro                             ./src/encoder_amp.o
-                                                  ./src/control_botones.o
+comando_listo_flag                                ./firmware/src/ProyectoFinal.o
+                                                  ./firmware/src/UART_bi.o
+encoder_init                                      ./firmware/src/encoder_amp.o
+                                                  ./firmware/src/ProyectoFinal.o
+encoder_procesar_giro                             ./firmware/src/encoder_amp.o
+                                                  ./firmware/src/control_botones.o
 errno                                             C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(errno.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ftell.o)
@@ -2403,21 +2403,21 @@ errno                                             C:/nxp/MCUXpressoIDE_25.6.136/
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
 fabs                                              C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(fabs.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_sincos.o)
-flag_actualizar_lcd                               ./src/ProyectoFinal.o
-                                                  ./src/encoder_amp.o
-                                                  ./src/ADC_Pote.o
-frecuencia_actual                                 ./src/ProyectoFinal.o
-                                                  ./src/pantalla_LCD.o
-                                                  ./src/ADC_Pote.o
+flag_actualizar_lcd                               ./firmware/src/ProyectoFinal.o
+                                                  ./firmware/src/encoder_amp.o
+                                                  ./firmware/src/ADC_Pote.o
+frecuencia_actual                                 ./firmware/src/ProyectoFinal.o
+                                                  ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/ADC_Pote.o
 free                                              C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
 fscanf                                            C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
 fseek                                             C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(fseek.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_deferredlazyseek.o)
 ftell                                             C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ftell.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(fseek.o)
-generar_onda_polinomial                           ./src/UART_bi.o
-indice_rx                                         ./src/ProyectoFinal.o
-                                                  ./src/UART_bi.o
+generar_onda_polinomial                           ./firmware/src/UART_bi.o
+indice_rx                                         ./firmware/src/ProyectoFinal.o
+                                                  ./firmware/src/UART_bi.o
 isalnum                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ctype.o)
 isalpha                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ctype.o)
 iscntrl                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ctype.o)
@@ -2430,31 +2430,31 @@ isspace                                           C:/nxp/MCUXpressoIDE_25.6.136/
 isupper                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ctype.o)
 isxdigit                                          C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ctype.o)
 itoa                                              C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(itoa.o)
-                                                  ./src/pantalla_LCD.o
-lcd_pins_init                                     ./src/pantalla_LCD.o
-                                                  ./src/ProyectoFinal.o
-main                                              ./src/ProyectoFinal.o
+                                                  ./firmware/src/pantalla_LCD.o
+lcd_pins_init                                     ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/ProyectoFinal.o
+main                                              ./firmware/src/ProyectoFinal.o
 malloc                                            C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
 memcpy                                            C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
 memset                                            C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 pGPDMACh                                          C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(lpc17xx_gpdma.o)
 realloc                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
 scanf                                             C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-signals_actualizar_amplitud                       ./src/dac_dma_signals.o
-                                                  ./src/ProyectoFinal.o
-signals_generar_tablas_fijas                      ./src/dac_dma_signals.o
-                                                  ./src/ProyectoFinal.o
-signals_init                                      ./src/dac_dma_signals.o
-                                                  ./src/ProyectoFinal.o
+signals_actualizar_amplitud                       ./firmware/src/dac_dma_signals.o
+                                                  ./firmware/src/ProyectoFinal.o
+signals_generar_tablas_fijas                      ./firmware/src/dac_dma_signals.o
+                                                  ./firmware/src/ProyectoFinal.o
+signals_init                                      ./firmware/src/dac_dma_signals.o
+                                                  ./firmware/src/ProyectoFinal.o
 sin                                               C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(sin.o)
-                                                  ./src/dac_dma_signals.o
+                                                  ./firmware/src/dac_dma_signals.o
 sscanf                                            C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
 strcmp                                            C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcmp.o)
-                                                  ./src/UART_bi.o
+                                                  ./firmware/src/UART_bi.o
 strlen                                            C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
                                                   C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
 strtod                                            C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
@@ -2463,17 +2463,17 @@ strtol                                            C:/nxp/MCUXpressoIDE_25.6.136/
 strtoll                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
 strtoul                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
 strtoull                                          C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(scanf.o)
-tabla_cuad                                        ./src/dac_dma_signals.o
-tabla_salida_dma                                  ./src/dac_dma_signals.o
-tabla_seno                                        ./src/dac_dma_signals.o
-tabla_triang                                      ./src/dac_dma_signals.o
-tabla_usuario                                     ./src/dac_dma_signals.o
-                                                  ./src/UART_bi.o
-tipo_senal_actual                                 ./src/ProyectoFinal.o
-                                                  ./src/pantalla_LCD.o
-                                                  ./src/dac_dma_signals.o
-                                                  ./src/control_botones.o
-                                                  ./src/UART_bi.o
+tabla_cuad                                        ./firmware/src/dac_dma_signals.o
+tabla_salida_dma                                  ./firmware/src/dac_dma_signals.o
+tabla_seno                                        ./firmware/src/dac_dma_signals.o
+tabla_triang                                      ./firmware/src/dac_dma_signals.o
+tabla_usuario                                     ./firmware/src/dac_dma_signals.o
+                                                  ./firmware/src/UART_bi.o
+tipo_senal_actual                                 ./firmware/src/ProyectoFinal.o
+                                                  ./firmware/src/pantalla_LCD.o
+                                                  ./firmware/src/dac_dma_signals.o
+                                                  ./firmware/src/control_botones.o
+                                                  ./firmware/src/UART_bi.o
 tolower                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ctype.o)
 toupper                                           C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(ctype.o)
 uitoa                                             C:/nxp/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.win32_25.6.0.202501151204/tools/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(itoa.o)

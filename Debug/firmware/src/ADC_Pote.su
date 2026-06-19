@@ -1,0 +1,4 @@
+../firmware/src/ADC_Pote.c:22:6:adc_pot_init	16	static
+../firmware/src/ADC_Pote.c:37:17:mapear_adc_a_frecuencia	16	static
+../firmware/src/ADC_Pote.c:42:10:calcular_timeout_dac	24	static
+../firmware/src/ADC_Pote.c:52:6:adc_pot_actualizar	24	static

@@ -12,9 +12,9 @@
 *  Created on: 13 jun. 2026
 *      Author: Usuario
 */
-#include "botones_control.h"
-#include "variables_globales.h"
-#include "dac_dma_signals.h" // Para forzar el recalculo de la amplitud al cambiar de onda
+#include "../inc/botones_control.h"
+#include "../inc/dac_dma_signals.h" // Para forzar el recalculo de la amplitud al cambiar de onda
+#include "../inc/variables_globales.h"
 extern void encoder_procesar_giro(void);
 //Inicializa los pines de los botones con Pull-Up y habilita interrupciones por flanco de bajada
 void botones_init(void) {

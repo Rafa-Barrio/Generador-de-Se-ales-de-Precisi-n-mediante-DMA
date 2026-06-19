@@ -1,5 +1,6 @@
-src/encoder_amp.o src/encoder_amp.d: ../src/encoder_amp.c \
- C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/encoder_amp.h \
+firmware/src/control_botones.o firmware/src/control_botones.d: \
+ ../firmware/src/control_botones.c \
+ ../firmware/src/../inc/botones_control.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/LPC17xx.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/core_cm3.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/core_cmInstr.h \
@@ -10,11 +11,11 @@ src/encoder_amp.o src/encoder_amp.d: ../src/encoder_amp.c \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc_types.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_gpio.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/LPC17xx.h \
- C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/variables_globales.h \
- C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/dac_dma_signals.h \
+ ../firmware/src/../inc/dac_dma_signals.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_gpdma.h \
- C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_dac.h
-C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/encoder_amp.h:
+ C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_dac.h \
+ ../firmware/src/../inc/variables_globales.h
+../firmware/src/../inc/botones_control.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/LPC17xx.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/core_cm3.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/core_cmInstr.h:
@@ -25,7 +26,7 @@ C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\i
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc_types.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_gpio.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/LPC17xx.h:
-C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/variables_globales.h:
-C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/dac_dma_signals.h:
+../firmware/src/../inc/dac_dma_signals.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_gpdma.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_dac.h:
+../firmware/src/../inc/variables_globales.h:

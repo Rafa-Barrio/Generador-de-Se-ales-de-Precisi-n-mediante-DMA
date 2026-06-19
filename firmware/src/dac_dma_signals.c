@@ -5,10 +5,12 @@
  *      Author: USUARIO
  */
 
-#include "dac_dma_signals.h"
-#include "variables_globales.h"
+#include "../inc/dac_dma_signals.h"
+
 #include "lpc17xx_clkpwr.h"
 #include <math.h>
+
+#include "../inc/variables_globales.h"
 #ifndef M_PI
 #define M_PI 3.14159265358979323846
 #endif

@@ -4,11 +4,13 @@
  *  Created on: 15 jun. 2026
  *      Author: USUARIO
  */
-#include "pantalla_LCD.h"
-#include "variables_globales.h"
-#include "UART_bi.h"
+#include "../inc/pantalla_LCD.h"
+
 #include <string.h>
 #include <stdlib.h>
+
+#include "../inc/UART_bi.h"
+#include "../inc/variables_globales.h"
 // NUEVAS MÁSCARAS: Una para el bloque bajo (bits 5 al 8) y otra para el bloque alto (bits 10 al 13)
 #define MASK_DATOS_BAJOS  (0x0F << 5)   // Cubre P2.5, P2.6, P2.7, P2.8
 #define MASK_DATOS_ALTOS  (0x0F << 10)  // Cubre P2.10, P2.11, P2.12, P2.13

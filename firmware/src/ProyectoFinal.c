@@ -11,16 +11,17 @@
  */
 
 #include "LPC17xx.h"
-#include "variables_globales.h" // Incluimos las declaraciones
-#include "dac_dma_signals.h"
-#include "ADC_Pote.h"
-#include "botones_control.h"
-#include "encoder_amp.h"
 #include "LPC17xx_uart.h"
-#include "UART_bi.h"
-#include "pantalla_LCD.h"
 #include "string.h"
 #include <stdio.h>
+
+#include "../inc/ADC_Pote.h"
+#include "../inc/botones_control.h"
+#include "../inc/dac_dma_signals.h"
+#include "../inc/encoder_amp.h"
+#include "../inc/pantalla_LCD.h"
+#include "../inc/UART_bi.h"
+#include "../inc/variables_globales.h" // Incluimos las declaraciones
 // AQUÍ SE CREAN FÍSICAMENTE EN MEMORIA AL ARRANCAR EL MICRO:
 volatile uint32_t frecuencia_actual   = 1000; // Arranca en 1 kHz
 volatile uint8_t  amplitud_porcentaje = 100;  // Arranca al 100%

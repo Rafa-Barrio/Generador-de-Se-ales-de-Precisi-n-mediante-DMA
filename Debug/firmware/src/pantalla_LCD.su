@@ -1,0 +1,7 @@
+../firmware/src/pantalla_LCD.c:18:6:lcd_pins_init	16	static
+../firmware/src/pantalla_LCD.c:45:6:LCD_Pulso	16	static
+../firmware/src/pantalla_LCD.c:51:6:LCD_EnviarByte	24	static
+../firmware/src/pantalla_LCD.c:69:6:LCD_Init	24	static
+../firmware/src/pantalla_LCD.c:80:6:LCD_EscribirFrase	24	static
+../firmware/src/pantalla_LCD.c:87:6:LCD_EscribirNum	32	static
+../firmware/src/pantalla_LCD.c:92:6:Actualizar_Telemetria	16	static

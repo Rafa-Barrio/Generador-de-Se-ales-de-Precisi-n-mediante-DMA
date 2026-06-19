@@ -12,9 +12,10 @@
 *  Created on: 15 jun. 2026
 *      Author: Usuario
 */
-#include "encoder_amp.h"
-#include "variables_globales.h"
-#include "dac_dma_signals.h"
+#include "../inc/encoder_amp.h"
+
+#include "../inc/dac_dma_signals.h"
+#include "../inc/variables_globales.h"
 //Inicializa los pines del encoder con Pull-up y habilita interrupcion en P2.0
 void encoder_init(void){
 	PINSEL_CFG_Type pin_cfg;

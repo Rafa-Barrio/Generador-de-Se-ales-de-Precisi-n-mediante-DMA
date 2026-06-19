@@ -4,13 +4,15 @@
  *  Created on: 15 jun. 2026
  *      Author: USUARIO
  */
-#include "UART_bi.h"
+#include "../inc/UART_bi.h"
+
 #include "LPC17xx_uart.h"
-#include "variables_globales.h"
-#include "dac_dma_signals.h"
 #include "string.h"
 #include <stdio.h>
 #include <stdlib.h> // Para usar atof()
+
+#include "../inc/dac_dma_signals.h"
+#include "../inc/variables_globales.h"
 // Definición de los estados para la UART
 typedef enum {
    ESPERANDO_COMANDO = 0,
