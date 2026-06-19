@@ -1,0 +1,7 @@
+../src/pantalla_LCD.c:16:6:lcd_pins_init	16	static
+../src/pantalla_LCD.c:43:6:LCD_Pulso	16	static
+../src/pantalla_LCD.c:49:6:LCD_EnviarByte	24	static
+../src/pantalla_LCD.c:67:6:LCD_Init	24	static
+../src/pantalla_LCD.c:78:6:LCD_EscribirFrase	24	static
+../src/pantalla_LCD.c:85:6:LCD_EscribirNum	32	static
+../src/pantalla_LCD.c:90:6:Actualizar_Telemetria	16	static
