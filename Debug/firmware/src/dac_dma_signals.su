@@ -1,3 +1,0 @@
-../firmware/src/dac_dma_signals.c:27:6:signals_generar_tablas_fijas	16	static
-../firmware/src/dac_dma_signals.c:40:6:signals_actualizar_amplitud	32	static
-../firmware/src/dac_dma_signals.c:58:6:signals_init	56	static
