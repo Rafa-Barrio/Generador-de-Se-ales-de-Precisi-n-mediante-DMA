@@ -95,6 +95,9 @@ Se presentan dos interacciones principales con el usuario. Por un lado, el contr
 ## 📊 5. Ensayos, Pruebas y Resultados (Común)
 En la carpeta Docs esta adjunta la evidencia fotografica.
 Se realizaron pruebas funcionales sobre la pantalla LCD, sobre el UART y Amplificador Operacional:
+
 **Pantalla LCD:** Se uso el modulo pantalla_LCD pero se diseño un main para inyectar datos harcodeados y lograr testear el funcionamento de las conexiones y el codigo del modulo (No se poseen imagenes)
+
 **UART:** Se uso el modulo correspondiente a UART con datos harcodeados para poder testear la funcionalidad (No se poseen imagenes)
+
 **Amplificador Operacional:** Se uso el codigo del proyecto para disparar la señal por defecto (Senoidal), y se testeo la correcta funcion del LM358 mirando la señal antes y despues de ser amplificada, en el osciloscopio. (Imagen en docs)
