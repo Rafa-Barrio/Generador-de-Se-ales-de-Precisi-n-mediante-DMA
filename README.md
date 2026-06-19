@@ -56,7 +56,7 @@ Se presentan dos interacciones principales con el usuario. Por un lado, el contr
 ## 🔄 4. Proceso de Integración y Desarrollo (Común)
 * **Organización del programa:**
 
-Etapa 1:
+**Etapa 1:**
 1. declaración de variables externas
     
 2. dac_dma_signals: 
@@ -68,7 +68,7 @@ Etapa 1:
     
 - configurar DAC y DMA con sus respectivas LLIs
     
-Etapa 2:
+**Etapa 2:**
 3. UART: configuración, handler de interrupción y función para procesar lo recibido
     
 4. ADC: configuración, y funciones para procesar lo convertido. Aplicamos filtros de histéresis para cancelar el ruido del potenciómetro. 
@@ -80,9 +80,9 @@ Etapa 2:
 7. LCD: configuración para funcionamiento y actualización de la pantalla LCD
     
 8. main: loop de chequear banderas de UART, cambio de señal y refresco de pantalla LCD.
-Etapa 3:
+**Etapa 3:**
 9. Integración lógica de los módulos, acondicionamiento de prioridades de interrupción y testeo de funcionamiento integral 
-Etapa 4:
+**Etapa 4:**
 10. Test de Sistema completo y sometimiento a pruebas de estrés 
 
 ---
