@@ -1,4 +1,5 @@
-src/UART_bi.o src/UART_bi.d: ../src/UART_bi.c ../src/UART_bi.h \
+src/UART_bi.o src/UART_bi.d: ../src/UART_bi.c \
+ C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/UART_bi.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/LPC17xx.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/core_cm3.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/core_cmInstr.h \
@@ -9,10 +10,11 @@ src/UART_bi.o src/UART_bi.d: ../src/UART_bi.c ../src/UART_bi.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc_types.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_pinsel.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx.h \
- ../src/variables_globales.h ../src/dac_dma_signals.h \
+ C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/variables_globales.h \
+ C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/dac_dma_signals.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_gpdma.h \
  C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_dac.h
-../src/UART_bi.h:
+C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/UART_bi.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/LPC17xx.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/core_cm3.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/core_cmInstr.h:
@@ -23,7 +25,7 @@ C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\i
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc_types.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_pinsel.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx.h:
-../src/variables_globales.h:
-../src/dac_dma_signals.h:
+C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/variables_globales.h:
+C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\ProyectoFinalV2\inc/dac_dma_signals.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_gpdma.h:
 C:\Users\USUARIO\Documents\MCUXpressoIDE_25.6.136\workspace\CMSISv2p00_LPC17xx\inc/lpc17xx_dac.h:
